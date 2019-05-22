@@ -8,7 +8,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  *
  * 
  * 
- * Line 1 
+ * Line 5
  * @author Ali Hassan
  */
 public class Employee {
